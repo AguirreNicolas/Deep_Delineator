@@ -1,0 +1,8 @@
+Datos_Valsalva
+__pycache__
+.ipynb_checkpoints
+*.zip
+
+/dist/
+
+examples/*.pdf
